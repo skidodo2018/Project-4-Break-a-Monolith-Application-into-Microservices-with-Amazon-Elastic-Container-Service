@@ -1,4 +1,4 @@
-# Project-4-Break-a-Monolith-Application-into-Microservices-with-Amazon-Elastic-Container-Service-...
+# Project-4-Break-a-Monolith-Application-into-Microservices-with-Amazon-Elastic-Container-Service
 
 ## Project Objectives
 - Deploy a monolithic node.js application to a Docker container.
